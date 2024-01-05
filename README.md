@@ -1,5 +1,5 @@
 # Proyecto en C#
-Esta es un proyecto elaborado en C# utilizando windows forms y sus elementos, simplemente presenta tres menus y las opciones de comida que existen dependiendo de la cantidad que se elige de determinada comida se va sumando el total a pagar.
+Este es un mini proyecto elaborado en C# utilizando windows forms y sus elementos, simplemente presenta tres menus y las opciones de comida que existen, dependiendo de la cantidad que se elige de determinada comida se va sumando al total a pagar.
 
 **Tecnologías empleadas**:
 
